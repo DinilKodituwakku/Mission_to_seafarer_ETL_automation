@@ -1,0 +1,22 @@
+# Generated data and exports: never commit real seafarer data
+/data/
+/reports/
+/outputs/
+/automation/collection.log
+/automation/*.tmp.json
+/automation/runtime/
+/automation/node_modules/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.env
+.env*
+*login*.txt
+*.log
+.DS_Store
+Thumbs.db
